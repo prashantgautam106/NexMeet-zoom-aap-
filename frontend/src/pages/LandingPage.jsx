@@ -9,7 +9,7 @@ export default function LandingPage() {
                     <h2>Nex-Meet Video Call</h2>
                 </div>
                 <div className='navList'>
-                    <p>Join As Guest!</p>
+                    <p><a href="/home"></a>Join As Guest!</p>
                     <p>Register</p>
                     <div role='button'>
                         <p>Login</p>
